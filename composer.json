@@ -1,0 +1,14 @@
+{
+    "name": "evgeniy/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Evgeniy\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kopeikin45"
+        }
+    ],
+    "require": {}
+}
