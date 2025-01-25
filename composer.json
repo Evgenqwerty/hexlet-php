@@ -10,5 +10,7 @@
             "name": "kopeikin45"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.40"
+    }
 }
